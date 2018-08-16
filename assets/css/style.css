@@ -223,3 +223,9 @@ input[type=submit] {
     padding: 10px 30px;
     cursor: pointer;
 }
+
+@media screen and (max-width: 980px, 768px, 640px) {
+    p {
+        color: #061ef5;
+    }
+}
